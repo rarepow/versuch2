@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-image: url(./img/background_image.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.408);
+    width: 93vw;
+    height: 97vh;
+    border: 2px solid black;
+    margin: 10px auto;
+    /* margin-top: 10px; */
+    
+}
+main{color: white;
+border: 2px solid red;
+/* text-align: center; */
+height: 10vh;}
+
+main h1,p{
+text-align: center;
+}
+form{
+    
+}
